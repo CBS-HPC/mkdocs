@@ -41,7 +41,7 @@ Start by watching the following UCloud tutorials:
 
 ## User Support
 
-All UCloud support should go through the **RDM Support** (rdm@cbs.dk). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
+All UCloud support should go through the [RDM Support](/Contact/). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
 
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
@@ -50,7 +50,7 @@ This setup provides a better service to users and saves valuable time for **Back
 ### Students
 CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
 
-If this is not possible then you welcome to contact **RDM Support** (rdm@cbs.dk) to discuss further.
+If this is not possible then you welcome to contact [RDM Support](/Contact/) to discuss further.
 
 The ressources will be provided within a UCloud project and not to a user "My Workspace".
 
@@ -58,9 +58,9 @@ The ressources will be provided within a UCloud project and not to a user "My Wo
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/docs/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/docs/MachineType/). Otherwise please contact **RDM Support** (rdm@cbs.dk).
+1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/docs/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/docs/MachineType/). Otherwise please contact [RDM Support](/Contact/).
 
-2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact **RDM Support** (rdm@cbs.dk) as soon as possible if you consider applying.
+2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact [RDM Support](/Contact/) as soon as possible if you consider applying.
 
 For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
 

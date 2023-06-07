@@ -1,14 +1,15 @@
+# Tutorials & Documentation
+
 ### CBS Tutorials
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/docs/UCloud/)
-- [Using Conda on UCloud to manage R-packages and Python-libraries](/Tuts_Docs/docs/Conda/)
-- [SLURM Clusters on UCloud](/Tuts_Docs/docs/SLURM/)
-- [Virtual Machines on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md)
-- [Batch Processing on UCloud](https://github.com/CBS-HPC/UCloud_BatchMode/blob/main/README.md)
-- [Rsync - Large data transfer to UCloud](https://github.com/CBS-HPC/Tutorials/blob/main/Sync/Rsync.ipynb)
+- [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorials/Conda/Overview/)
+- [SLURM Clusters on UCloud](/UCloud_SlurmCluster/Overview/)
+- [Virtual Machines on UCloud](/Tutorials/VMs/Overview/)
+- [Batch Processing on UCloud](/UCloud_BatchMode/Overview/)
+- [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
 
 ### TYPE 1 (UCloud) 
-**SDU**
-
+#### SDU
 - [Manage Files and Folders (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 - [Manage Applications (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial2.html)
 - [Manage Workspaces (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
@@ -17,9 +18,7 @@
 - [UCloud Documentation (Hosted by UCloud)](https://docs.cloud.sdu.dk/index.html)
 - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 - [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
-
-**AAU**
-
+#### AAU
 - [Setting up jupyter-notebook with GPUs on AAU (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
 
 ### TYPE 2
