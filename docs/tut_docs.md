@@ -1,7 +1,7 @@
 # Tutorials & Documentation
 
 ### CBS Tutorials
-- [Getting Started with HPC (UCloud)](/HPC_Facilities/docs/UCloud/)
+- [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
 - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorials/Conda/Overview/)
 - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/Overview/)
 - [Virtual Machines on UCloud](/Tutorials/VMs/Overview/)

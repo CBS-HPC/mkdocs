@@ -5,7 +5,7 @@ Twice a year CBS is awarded **Local** HPC ressources that can be freely distribu
 
 **Type 1** 
 
-Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/docs/UCloud/#apply-for-funds) to apply.
+Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/UCloud/#apply-for-funds) to apply.
 
 **Type 3**
 

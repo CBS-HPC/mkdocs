@@ -12,7 +12,7 @@ If you have any further questions you are welcome to contact [RDM Support](/Cont
 
 ## Add Server License
 
-### Step 1: Apply for Server License through [UCloud Grant Application](/HPC_Facilities/docs/GrantApp/)
+### Step 1: Apply for Server License through [UCloud Grant Application](/HPC_Facilities/GrantApp/)
 
 ### Step 2: Activate License (SAS 9.4 license shown as example)
 ![](images/license4.PNG)

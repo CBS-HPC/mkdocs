@@ -8,7 +8,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
 
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-[AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](https://github.com/CBS-HPC/Tutorials/blob/main/VMs/README.md). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). More information can be found [here](/HPC_Facilities/docs/MachineType/).
+[AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorials/VMs/Overview/). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). More information can be found [here](/HPC_Facilities/MachineType/).
 
 ## Login onto UCloud
 
@@ -58,7 +58,7 @@ The ressources will be provided within a UCloud project and not to a user "My Wo
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/docs/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/docs/MachineType/). Otherwise please contact [RDM Support](/Contact/).
+1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/MachineType/). Otherwise please contact [RDM Support](/Contact/).
 
 2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact [RDM Support](/Contact/) as soon as possible if you consider applying.
 
@@ -98,9 +98,9 @@ A Matlab server license is needed in order to run the application on UCloud. Onc
 
 #### STATA
 
-Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](/HPC_Facilities/docs/GrantApp/).
+Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
-After being granted the license the user should perform the following [steps](/HPC_Facilities/docs/License/). 
+After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
 
 - [STATA UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
@@ -109,9 +109,9 @@ After being granted the license the user should perform the following [steps](/H
 
 #### SAS & SAS Studio
 
-Users can either upload their own personal SAS license (.txt file) or apply for one through a [UCloud Grant Application](/HPC_Facilities/docs/GrantApp/).
+Users can either upload their own personal SAS license (.txt file) or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
-After being granted the license the user should perform the following [steps](/HPC_Facilities/docs/License/). 
+After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
 
 - [SAS UCloud Application](https://cloud.sdu.dk/app/applications/search?q=Sas)
 

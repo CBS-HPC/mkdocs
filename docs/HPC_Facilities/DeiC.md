@@ -7,9 +7,9 @@ This page provides an overview of the [national HPC facilities (overview provide
 ## Type 1 – Interactive HPC (UCloud)
 The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). 
 
-**Get for Type 1 resources [here](/HPC_Facilities/docs/UCloud/#apply-for-funds).**
+**Get for Type 1 resources [here](/HPC_Facilities/UCloud/#apply-for-funds).**
 
-**More information is found [here](/HPC_Facilities/docs/UCloud/).**
+**More information is found [here](/HPC_Facilities/UCloud/).**
 
 ## Type 2 – Throughput HPC
 Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance. 
@@ -47,7 +47,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 Twice a year CBS is awarded **Local** HPC ressources that can be freely distributed to our researchers and students. 
 
 #### Type 1: 
-Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/docs/UCloud/#apply-for-funds) to apply.
+Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/UCloud/#apply-for-funds) to apply.
 
 #### Type 3
 
@@ -65,8 +65,8 @@ Find an overview of currently open application rounds [here](/GrantApp/). Please
 **Type 5 & other international HPC systems:** Researcher can apply for resources at [LUMI and other international HPC facilities](https://www.deic.dk/en/Supercomputing/International-HPC-Facilities). 
 
 ## Relevant CBS GitHub Links 
-- [DeiC Interactive HPC (UCloud)](/HPC_Facilities/docs/UCloud)
-- [UCloud Grant Application Guide](/HPC_Facilities/docs/GrantApp)
+- [DeiC Interactive HPC (UCloud)](/HPC_Facilities/UCloud)
+- [UCloud Grant Application Guide](/HPC_Facilities/GrantApp)
 
 ## External Links
 - [Apply for national HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
