@@ -15,7 +15,7 @@
     
     
       
-        <title>Overview - HPC & Data Science Support</title>
+        <title>UCloud - HPC & Data Science Support</title>
       
     
     
@@ -69,7 +69,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#tutorials-documentation" class="md-skip">
+        <a href="#type-1-interactive-hpc-ucloud" class="md-skip">
           Skip to content
         </a>
       
@@ -101,7 +101,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Overview
+              UCloud
             
           </span>
         </div>
@@ -423,62 +423,109 @@
                   
 
 
-  <h1>Overview</h1>
-
-<h2 id="tutorials-documentation">Tutorials &amp; Documentation<a class="headerlink" href="#tutorials-documentation" title="Permanent link"></a></h2>
-<h3 id="cbs-tutorials">CBS Tutorials<a class="headerlink" href="#cbs-tutorials" title="Permanent link"></a></h3>
+<p><a href="https://cloud.sdu.dk/app/login"><img alt="UCloud" src="/HPC_Facilities/images/hpc_ucloud.png" /></a> </p>
+<h1 id="type-1-interactive-hpc-ucloud">Type 1 – Interactive HPC (UCloud)<a class="headerlink" href="#type-1-interactive-hpc-ucloud" title="Permanent link"></a></h1>
+<p>The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as <a href="https://cloud.sdu.dk/">UCloud</a>. This service is provided by the Danish universities <strong>SDU</strong> and <strong>AAU</strong>.</p>
+<h2 id="facility-overview">Facility Overview<a class="headerlink" href="#facility-overview" title="Permanent link"></a></h2>
+<p><a href="https://cloud.sdu.dk/app/providers/detailed/ucloud">SDU</a> provides <strong>CPU</strong> based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. <a href="https://docs.cloud.sdu.dk/Apps/type.html">See all apps</a>. </p>
+<p><a href="https://cloud.sdu.dk/app/providers/detailed/aau">AAU</a> provides primary <strong>GPU</strong> based <a href="https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines">virtual machines</a>. Access is obtained through terminal and <a href="/Tutorials/VMs/Overview/">SSH</a>. It is possible to set up interactive enviroments such as <a href="https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/">JupyterLab</a>. More information can be found <a href="/HPC_Facilities/MachineType/">here</a>.</p>
+<h2 id="login-onto-ucloud">Login onto UCloud<a class="headerlink" href="#login-onto-ucloud" title="Permanent link"></a></h2>
+<p>You can login on to UCloud using WAYF (Where Are You From). Press <a href="https://cloud.sdu.dk/app/login">here</a> to login.</p>
 <ul>
-<li><a href="https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md">Getting Started with HPC (UCloud)</a></li>
-<li><a href="https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md">Using Conda on UCloud to manage R-packages and Python-libraries</a></li>
-<li><a href="https://github.com/CBS-HPC/UCloud_SlurmCluster">SLURM Clusters on UCloud</a></li>
-<li><a href="https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md">Virtual Machines on UCloud</a></li>
-<li><a href="https://github.com/CBS-HPC/UCloud_BatchMode/blob/main/README.md">Batch Processing on UCloud</a></li>
-<li><a href="https://github.com/CBS-HPC/Tutorials/blob/main/Sync/Rsync.ipynb">Rsync - Large data transfer to UCloud</a></li>
+<li>Select Copenhagen Business School as your affiliate institution on the login page. </li>
+<li>Sign in using your CBS mail account</li>
 </ul>
-<h3 id="type-1-ucloud">TYPE 1 (UCloud)<a class="headerlink" href="#type-1-ucloud" title="Permanent link"></a></h3>
-<h4 id="sdu">SDU<a class="headerlink" href="#sdu" title="Permanent link"></a></h4>
+<p>Upon the first login it is necessary to approve the SDU eScience <a href="https://legal.cloud.sdu.dk">terms of service</a>. Afterwards, the user is redirected to the UCloud user interface.</p>
+<p><strong>Note:</strong> After login the user can activate <a href="https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication">two factor authentication</a> by clicking on the avatar icon in the top-right corner of the home screen.</p>
+<h2 id="get-started-with-ucloud">Get started with UCloud<a class="headerlink" href="#get-started-with-ucloud" title="Permanent link"></a></h2>
+<p>All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU only) resources to the <a href="https://cloud.sdu.dk/app/providers/detailed/ucloud">"DeiC Interactive HPC (SDU)"</a>, as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. </p>
+<p><a href="https://cloud.sdu.dk/app/providers/detailed/ucloud">"DeiC Interactive HPC (SDU)"</a> provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). <a href="https://docs.cloud.sdu.dk/Apps/type.html">See all apps</a>.</p>
+<p><strong>The largest machine (64 cores &amp; 384 GB memory) cost 5.49kr/Hour. So the free 1000 DKK will give you access to approx. 182 hours of inital run time.</strong></p>
+<p>Start by watching the following UCloud tutorials:</p>
 <ul>
-<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial1.html">Manage Files and Folders (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial2.html">Manage Applications (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial1.html">Manage Workspaces (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/hands-on/use-cases.html">Use Cases (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/hands-on/webinars.html">Webinars (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/index.html">UCloud Documentation (Hosted by UCloud)</a></li>
-<li><a href="https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing">Synchronization to UCloud (Hosted by UCloud)</a></li>
-<li><a href="https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/">Quick guide on running JupyterLab on UCloud (Hosted by RUC)</a> </li>
+<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial1.html">Manage Files and Folders</a></li>
+<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial2.html">Manage Applications</a></li>
+<li><a href="https://docs.cloud.sdu.dk/tutorials/tutorial1.html">Manage Workspaces</a></li>
+<li><a href="https://docs.cloud.sdu.dk/hands-on/use-cases.html">Use Cases</a></li>
+<li><a href="https://docs.cloud.sdu.dk/hands-on/webinars.html">Webinars</a></li>
+<li><a href="https://docs.cloud.sdu.dk/index.html">UCloud Documentation</a></li>
 </ul>
-<h4 id="aau">AAU<a class="headerlink" href="#aau" title="Permanent link"></a></h4>
+<p><strong>More Tutorials and Documentation can be found <a href="https://github.com/CBS-HPC/Tutorials">here</a></strong></p>
+<h2 id="user-support">User Support<a class="headerlink" href="#user-support" title="Permanent link"></a></h2>
+<p>All UCloud support should go through the <a href="/Contact/">RDM Support</a>. If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (<strong>Back Office</strong>). </p>
+<p>This setup provides a better service to users and saves valuable time for <strong>Back Office</strong> technicians who can concentrate on highly technical issues.</p>
+<h2 id="apply-for-funds">Apply for Funds<a class="headerlink" href="#apply-for-funds" title="Permanent link"></a></h2>
+<h3 id="students">Students<a class="headerlink" href="#students" title="Permanent link"></a></h3>
+<p>CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. </p>
+<p>If this is not possible then you welcome to contact <a href="/Contact/">RDM Support</a> to discuss further.</p>
+<p>The ressources will be provided within a UCloud project and not to a user "My Workspace".</p>
+<h3 id="researchers-staff">Researchers &amp; Staff<a class="headerlink" href="#researchers-staff" title="Permanent link"></a></h3>
+<p>Further funds can be obtianed in two ways: </p>
+<ol>
+<li>
+<p>Apply to the local CBS ressource pool. You apply from UCloud by sending a <a href="/HPC_Facilities/GrantApp/">UCloud grant application</a>. Information on machine type selection be found <a href="/HPC_Facilities/MachineType/">here</a>. Otherwise please contact <a href="/Contact/">RDM Support</a>.</p>
+</li>
+<li>
+<p>Apply for the <a href="https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources">bi-annual application round</a> for the national HPC resources. Please contact <a href="/Contact/">RDM Support</a> as soon as possible if you consider applying.</p>
+</li>
+</ol>
+<p>For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).</p>
+<p>This number should be used to <a href="https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc">acknowledge the use of national HPC</a> in publications.</p>
+<h2 id="collaboration-on-ucloud">Collaboration on UCloud<a class="headerlink" href="#collaboration-on-ucloud" title="Permanent link"></a></h2>
+<h4 id="international-collaborators">International Collaborators<a class="headerlink" href="#international-collaborators" title="Permanent link"></a></h4>
+<p>International researchers need a <strong>"visiting researcher premission"(gæsteforskeradgang)</strong> to CBS to gain access to UCloud. One can be obtained by contacting CBS HR(hr@cbs.dk).</p>
+<p>Once this is in place CBS HPC support will contact the <strong>UCloud Research Support Team</strong> and provide the below shown information. </p>
 <ul>
-<li><a href="https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/">Setting up jupyter-notebook with GPUs on AAU (Hosted by RUC)</a></li>
+<li>
+<p>Full name:</p>
+</li>
+<li>
+<p>Occupation:</p>
+</li>
+<li>
+<p>Organisation (University):</p>
+</li>
+<li>
+<p>Email (University):</p>
+</li>
 </ul>
-<h3 id="type-2">TYPE 2<a class="headerlink" href="#type-2" title="Permanent link"></a></h3>
+<p>Subsequently, the <strong>UCloud Research Support Team</strong> will contact the researcher to verify their identity through a video meeting. A valid ID is needed. </p>
+<h2 id="license-software">License Software<a class="headerlink" href="#license-software" title="Permanent link"></a></h2>
+<p>There are several types of licensed software that can be run on UCloud. </p>
+<h4 id="matlab">MATLAB<a class="headerlink" href="#matlab" title="Permanent link"></a></h4>
+<p>A Matlab server license is needed in order to run the application on UCloud. Once can be acquired through <a href="https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f">CBS IT help desk</a> at own expense.</p>
 <ul>
-<li><a href="https://www.computerome.dk/wiki/high-performance-computing-hpc">Computerome 2.0 - Documentation</a></li>
-<li><a href="https://genome.au.dk/docs/">GenomeDK - Documentation</a></li>
-<li><a href="https://dtu-sophia.github.io/docs/">Sophia - Documentation</a></li>
+<li>
+<p><a href="https://cloud.sdu.dk/app/jobs/create?app=matlab&amp;version=r2022b-2">Matlab UCloud Application</a></p>
+</li>
+<li>
+<p><a href="https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license">UCloud Matlab Documentation</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=fZw7OwiPfTw">UCloud video tutorial</a> - Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.</p>
+</li>
 </ul>
-<h3 id="type-3-hippo">TYPE 3 (Hippo)<a class="headerlink" href="#type-3-hippo" title="Permanent link"></a></h3>
+<h4 id="stata">STATA<a class="headerlink" href="#stata" title="Permanent link"></a></h4>
+<p>Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a <a href="/HPC_Facilities/GrantApp/">UCloud Grant Application</a>.</p>
+<p>After being granted the license the user should perform the following <a href="/HPC_Facilities/License/">steps</a>. </p>
 <ul>
-<li><a href="https://docs.hpc-type3.sdu.dk/index.html">User Guide (Hosted by UCloud)</a></li>
+<li>
+<p><a href="https://cloud.sdu.dk/app/jobs/create?app=stata&amp;version=17">STATA UCloud Application</a></p>
+</li>
+<li>
+<p><a href="https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license">UCloud STATA Documentation</a></p>
+</li>
 </ul>
-<h3 id="type-5-lumi">TYPE 5 (LUMI)<a class="headerlink" href="#type-5-lumi" title="Permanent link"></a></h3>
+<h4 id="sas-sas-studio">SAS &amp; SAS Studio<a class="headerlink" href="#sas-sas-studio" title="Permanent link"></a></h4>
+<p>Users can either upload their own personal SAS license (.txt file) or apply for one through a <a href="/HPC_Facilities/GrantApp/">UCloud Grant Application</a>.</p>
+<p>After being granted the license the user should perform the following <a href="/HPC_Facilities/License/">steps</a>. </p>
 <ul>
-<li><a href="https://www.deic.dk/da/news/2023-1-4/cotainr-vaerktoej-skal-goere-LUMI-brug-lettere">Cotainr (Hosted by DeiC)</a></li>
-</ul>
-<h3 id="general-hpc-documentation">General HPC Documentation<a class="headerlink" href="#general-hpc-documentation" title="Permanent link"></a></h3>
-<ul>
-<li><a href="https://enccs.se/lessons/">ENCCS Lessons</a></li>
-<li><a href="https://deic.dk/en/news/2022-11-21/virtual-slurm-learning-environment-ready">Virtual SLURM Learning (Hosted by DeiC)</a></li>
-</ul>
-<h3 id="python">Python<a class="headerlink" href="#python" title="Permanent link"></a></h3>
-<ul>
-<li><a href="https://enccs.github.io/hpda-python/">High Performance Data Analytics in Python (Hosted by ENCCS)</a> </li>
-</ul>
-<h3 id="other-links">Other Links<a class="headerlink" href="#other-links" title="Permanent link"></a></h3>
-<ul>
-<li><a href="https://github.com/DeiC-HPC">DeiC HPC GitHub</a></li>
-<li><a href="https://hpc.ruc.dk/">RUC HPC</a></li>
-<li><a href="https://coderefinery.org/">Code Refinery</a></li>
+<li>
+<p><a href="https://cloud.sdu.dk/app/applications/search?q=Sas">SAS UCloud Application</a></p>
+</li>
+<li>
+<p><a href="https://docs.cloud.sdu.dk/search.html?q=SAS&amp;check_keywords=yes&amp;area=default#">UCloud SAS Documentation</a></p>
+</li>
 </ul>
 
 
