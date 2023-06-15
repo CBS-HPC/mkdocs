@@ -88,7 +88,7 @@ There are several types of licensed software that can be run on UCloud.
 
 #### MATLAB
 
-A Matlab [server license]() in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
+A Matlab server license is needed in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
 
 - [Matlab UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
 
