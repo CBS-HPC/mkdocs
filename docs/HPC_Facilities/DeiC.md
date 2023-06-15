@@ -1,4 +1,4 @@
-[![deic](/HPC_Facilites/images/DeiC.jpg)](https://www.deic.dk/) 
+[![deic](./images/DeiC.jpg)](https://www.deic.dk/) 
 
 # National HPC Facilities
 
