@@ -47,7 +47,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 Twice a year CBS is awarded **Local** HPC ressources that can be freely distributed to our researchers and students. 
 
 #### Type 1: 
-Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](./docs/UCloud/#apply-for-funds) to apply.
+Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/docs/UCloud/#apply-for-funds) to apply.
 
 #### Type 3
 

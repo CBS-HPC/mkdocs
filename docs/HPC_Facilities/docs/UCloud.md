@@ -1,4 +1,4 @@
-[![UCloud](./images/hpc_ucloud.png)](https://cloud.sdu.dk/app/login) 
+[![UCloud](/HPC_Facilities/images/hpc_ucloud.png)](https://cloud.sdu.dk/app/login) 
 
 # Type 1 – Interactive HPC (UCloud)
 
