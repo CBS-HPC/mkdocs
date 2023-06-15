@@ -1,4 +1,5 @@
 # News
+- [23-06-12 - New way to use SSH for accessing apps on Interactive HPC](https://interactivehpc.dk/?p=1300)
 - [23-05-31 - UCloud Maintenance notice - 27/06/2023](https://cloud.sdu.dk/app/news/detailed/346)
 - [23-05-02 - New Tutorial "Batch Processing on UCloud"](/UCloud_BatchMode/Overview/)
 - [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)

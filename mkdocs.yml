@@ -1,4 +1,13 @@
 site_name: HPC & Data Science Support
+nav:
+    - 'index.md'
+    - 'news.md'
+    - 'events.md'
+    - 'hpc_facilities.md'
+    - 'getresources.md'
+    - 'tut_docs.md'
+    - 'contact.md'
+
 theme:
   name: material
   logo: images/CBS_logo.png
