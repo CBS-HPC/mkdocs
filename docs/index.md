@@ -46,3 +46,15 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - Workflow and code optimization assistance
 
     By offering expert consultation, we help researchers identify and address their specific HPC needs, ensuring they can effectively utilize the available resources and optimize their workflows and code for maximum performance and efficiency.
+
+
+## Most Relevant Links 
+
+=== "R"
+
+=== "Python"
+
+=== "STATA"
+
+=== "Matlab"
+

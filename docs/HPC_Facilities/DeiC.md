@@ -8,7 +8,7 @@ This page provides an overview of the [national HPC facilities (overview provide
 
     The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). 
 
-    **Get for Type 1 resources [here](/HPC_Facilities/UCloud/#apply-for-funds).**
+    **Get for Type 1 resources [here](/getresources/).**
 
     **More information is found [here](/HPC_Facilities/UCloud/).**
 
@@ -44,9 +44,3 @@ This page provides an overview of the [national HPC facilities (overview provide
     **Get for Type 5 resources [here](/getresources/).**
 
     **More information is found [here](https://escience.sdu.dk/index.php/lumi/).**
-
-***This page is adopted from the following sources:*** 
-
-***https://hpc.ruc.dk/national-hpc-facilities/***
-
-***https://www.deic.dk/en/supercomputing/national-hpc-facilities***

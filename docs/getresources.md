@@ -3,7 +3,7 @@
 ## Local Resources
 Twice a year CBS is awarded **Local** HPC ressources that can be freely distributed to our researchers and students. 
 
-**Type 1:**  Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/UCloud/#apply-for-funds) to apply.
+**Type 1:**  Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs. See [here](/HPC_Facilities/UCloud/) to apply.
 
 **Type 3:**  Please contact [RDM Support](/Contact/) if you would like to CBS to request **Local** resources to Type 3.
 
