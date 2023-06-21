@@ -1,3 +1,4 @@
+title: Type 1 – Interactive HPC (UCloud)
 [![UCloud](/HPC_Facilities/images/hpc_ucloud.png)](https://cloud.sdu.dk/app/login) 
 
 # Type 1 – Interactive HPC (UCloud)
@@ -85,34 +86,33 @@ Subsequently, the **UCloud Research Support Team** will contact the researcher t
 
 ## License Software
 There are several types of licensed software that can be run on UCloud. 
+ 
+=== "MATLAB"
+    
+    A Matlab server license is needed in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
 
-#### MATLAB
+    - [Matlab UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
 
-A Matlab server license is needed in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
+    - [UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
 
-- [Matlab UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
+    - [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) - Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
-- [UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+=== "STATA"
 
-- [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) - Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
+    Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
-#### STATA
+    After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
 
-Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
+    - [STATA UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
-After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
+    - [UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
-- [STATA UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
+=== "SAS & SAS Studio"
 
-- [UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
+     Users can either upload their own personal SAS license (.txt file) or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
+    After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
 
-#### SAS & SAS Studio
+    - [SAS UCloud Application](https://cloud.sdu.dk/app/applications/search?q=Sas)
 
-Users can either upload their own personal SAS license (.txt file) or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
-
-After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
-
-- [SAS UCloud Application](https://cloud.sdu.dk/app/applications/search?q=Sas)
-
-- [UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#)
+    - [UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#)

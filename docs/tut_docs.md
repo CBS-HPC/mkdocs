@@ -1,6 +1,7 @@
 # Tutorials & Documentation
 
 ### CBS Tutorials
+- [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorials/BLAS/Overview/)
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
 - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorials/Conda/Overview/)
 - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/Overview/)
@@ -25,7 +26,7 @@
 
 - [Setting up jupyter-notebook with GPUs on AAU (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
 
-### TYPE 2
+### TYPE 2 (Throughput)
 - [Computerome 2.0 - Documentation](https://www.computerome.dk/wiki/high-performance-computing-hpc)
 - [GenomeDK - Documentation](https://genome.au.dk/docs/)
 - [Sophia - Documentation](https://dtu-sophia.github.io/docs/)

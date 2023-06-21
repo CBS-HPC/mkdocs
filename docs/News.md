@@ -1,4 +1,6 @@
 # News
+- [23-06-20 - Rsync - Large data transfer to UCloud (Updated)](/Tutorials/Sync/Rsync/)
+- [23-06-19 - Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorials/BLAS/Overview/)
 - [23-06-12 - New way to use SSH for accessing apps on Interactive HPC](https://interactivehpc.dk/?p=1300)
 - [23-05-31 - UCloud Maintenance notice - 27/06/2023](https://cloud.sdu.dk/app/news/detailed/346)
 - [23-05-02 - New Tutorial "Batch Processing on UCloud"](/UCloud_BatchMode/Overview/)
