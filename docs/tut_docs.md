@@ -1,12 +1,12 @@
 # Tutorials & Documentation
 
 ### CBS Tutorials
-- [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorials/BLAS/Overview/)
+- [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-- [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorials/Conda/Overview/)
-- [SLURM Clusters on UCloud](/UCloud_SlurmCluster/Overview/)
-- [Virtual Machines on UCloud](/Tutorials/VMs/Overview/)
-- [Batch Processing on UCloud](/UCloud_BatchMode/Overview/)
+- [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+- [SLURM Clusters on UCloud](/Tutorial_Docs/SLURM/)
+- [Virtual Machines on UCloud](/Tutorial_Docs/VMs/)
+- [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
 - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
 
 ### TYPE 1 (UCloud) 

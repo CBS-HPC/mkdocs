@@ -1,17 +1,17 @@
-[![UCloud](/HPC_Facilities/images/hpc_ucloud.png)](https://cloud.sdu.dk/app/login) 
-
-# Type 1 – Interactive HPC (UCloud)
+# Type 1 – Interactive HPC (UCloud)     [![UCloud](/HPC_Facilities/images/hpc_ucloud.png){ align=right}](https://cloud.sdu.dk/app/login) 
 
 The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU**.
 
-=== "Facility Overview"
+<br />
 
+=== "Facility Overview"
+    <br />
     [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-    [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorials/VMs/Overview/). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). More information can be found [here](/HPC_Facilities/MachineType/).
+    [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorial_Docs/VMs/). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). More information can be found [here](/HPC_Facilities/MachineType/).
 
 === "Login on UCloud"
-
+    <br />
     You can login on to UCloud using WAYF (Where Are You From). Press [here](https://cloud.sdu.dk/app/login) to login.
 
     - Select Copenhagen Business School as your affiliate institution on the login page. 
@@ -22,7 +22,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
     **Note:** After login the user can activate [two factor authentication](https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication) by clicking on the avatar icon in the top-right corner of the home screen.
 
 === "Geting started"
-
+    <br />
     All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU only) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
     ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html).
@@ -41,13 +41,13 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
     **More Tutorials and Documentation can be found [here](https://github.com/CBS-HPC/Tutorials)**
 
 === "User Support"
-
+    <br />
     All UCloud support should go through the [RDM Support](/Contact/). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
 
     This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
 === "Collaboration"
-
+    <br />
     ** International Collaborators**
 
     International researchers need a **"visiting researcher premission"(gæsteforskeradgang)** to CBS to gain access to UCloud. One can be obtained by contacting CBS HR(hr@cbs.dk).
@@ -65,8 +65,9 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
     Subsequently, the **UCloud Research Support Team** will contact the researcher to verify their identity through a video meeting. A valid ID is needed. 
 
 === "Apply for Funds"
-
+    <br />
     === "Students"
+        <br />
         CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
 
         If this is not possible then you welcome to contact [RDM Support](/Contact/) to discuss further.
@@ -74,7 +75,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
         The ressources will be provided within a UCloud project and not to a user "My Workspace".
 
     === "Researchers & Staff"
-
+        <br />
         Further funds can be obtianed in two ways: 
 
         1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/MachineType/). Otherwise please contact [RDM Support](/Contact/).
@@ -86,11 +87,11 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
         This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) in publications.
 
 === "License Software"
-
+    <br />
     There are several types of licensed software that can be run on UCloud. 
     
     === "MATLAB"
-        
+        <br />   
         A Matlab server license is needed in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
 
         - [Matlab UCloud Application](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
@@ -100,7 +101,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
         - [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) - Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
     === "STATA"
-
+        <br />
         Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
         After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 
@@ -110,7 +111,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
         - [UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
     === "SAS & SAS Studio"
-
+        <br />
         Users can either upload their own personal SAS license (.txt file) or apply for one through a [UCloud Grant Application](/HPC_Facilities/GrantApp/).
 
         After being granted the license the user should perform the following [steps](/HPC_Facilities/License/). 

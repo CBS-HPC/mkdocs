@@ -3,12 +3,11 @@ title: Home
 
 This is the GitHub repository for HPC & Data Science Support at CBS. The team is dedicated to providing assistance and support to CBS researchers and students in their research utilizing the different HPC systems available at CBS. The repository contains various resources and information related to our services and activities.
 
-
 ## Activities 
 
 === "Tutorials & User Utilities"
-
-    The HPC & Data Science Support team provides tutorials and user utilities to assist and support CBS researchers and students in their research utilizing the different HPC systems available at CBS. The tutorials and utilities covering various topics such as:
+    <br />
+    The HPC & Da Science Support team provides tutorials and user utilities to assist and support CBS researchers and students in their research utilizing the different HPC systems available at CBS. The tutorials and utilities covering various topics such as:
 
     - Use cases for different HPC systems
     - Efficient and secure data tranfer
@@ -18,7 +17,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     These tutorials offer step-by-step guidance, empowering users to effectively utilize HPC resources for their research. 
 
 === "Teaching Activities"
-
+    <br />
     We conducts teaching activities through researcher and student webinars. Titles include "High Performance Computing", "HPC & Parallel Programming in R," and "HPC & Parallel Programming in Python" with more in the pipeline.
 
     See "Events" section for more [information](/docs/events/).
@@ -26,11 +25,11 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     **Upon receiving requests from course coordinators, we are also available to participate in teaching activities for courses at CBS.**
 
 === "Development of HPC"
-
+    <br />
     We are committed to the continuous development of HPC resources at CBS. This is both by ensuring that researchers have access to the right facilities, both short- and long-terma, but also by providing a clear learning strategy for research to develop their HPC & data science skillset.
 
 === "Daily User Support"
-
+    <br />
     As Deic **Front Office** at CBS are we in charge off all communications with HPC system adminstrators (**Back Office**) and DeiC.
 
     Ideally, all user requests and troubleshooting should be send to the CBS Front Office(rdm@cbs.dk) as a Single Point of Contact (SPOC) where resulting tickets will be directed accordingly. 
@@ -38,7 +37,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
 === "Research Consultancy"
-
+    <br />
     We provide consulting services to researchers and research projects, assisting them with their HPC requirements. Our support includes, but is not limited to, the following examples:
 
     - HPC grant application guidance
@@ -51,10 +50,10 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 ## Most Relevant Links 
 
 === "R"
-
+    <br />
 === "Python"
-
+    <br />
 === "STATA"
-
+    <br />
 === "Matlab"
 

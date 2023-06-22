@@ -45,10 +45,14 @@ extra_css:
 plugins:
     - search
     - awesome-pages # awesome-pages allows to hide folders (pip install)
+    - macros # Allows custom macros.. used to import external files
 
 # Section Links    
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.superfences
+  - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true 
   - toc:
