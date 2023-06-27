@@ -18,7 +18,7 @@ This page provides an overview of the [national HPC facilities (overview provide
     <br />
     Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance. 
 
-    **Get for Type 2 resources [here](/getresources/)**
+    **Get for Type 2 resources [here](/getresources/).**
 
     **More information is found here:**
 

@@ -50,10 +50,33 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 ## Most Relevant Links 
 
 === "R"
-    <br />
-=== "Python"
-    <br />
-=== "STATA"
-    <br />
-=== "Matlab"
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
+    - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 
+=== "Python"
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
+    - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+    - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
+
+=== "STATA"
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+=== "Matlab"
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)

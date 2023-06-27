@@ -4,7 +4,7 @@
 - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
 - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
-- [SLURM Clusters on UCloud](/Tutorial_Docs/SLURM/)
+- [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
 - [Virtual Machines on UCloud](/Tutorial_Docs/VMs/)
 - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
 - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
