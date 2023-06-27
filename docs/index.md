@@ -60,7 +60,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
 === "Python"
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-    - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
