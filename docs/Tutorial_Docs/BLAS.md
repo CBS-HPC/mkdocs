@@ -8,6 +8,3 @@ LAPACK, the Linear Algebra Package, builds upon the BLAS library and provides hi
 
 ## R
 - [Speed up your Linear Alegbra calculations 78 times by choosing the right RStudio version on UCloud.](/Tutorials/BLAS/BLAS_R/)
-
-## Python
-- [Speed up your Numpy calculations](/Tutorials/BLAS/BLAS_Python/)
