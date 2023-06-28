@@ -46,10 +46,11 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
     By offering expert consultation, we help researchers identify and address their specific HPC needs, ensuring they can effectively utilize the available resources and optimize their workflows and code for maximum performance and efficiency.
 
-
 ## Most Relevant Links 
 
 === "R"
+    <br />
+    
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
@@ -59,6 +60,8 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 
 === "Python"
+     <br />
+
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
@@ -68,14 +71,23 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
 
 === "STATA"
+     <br />
+
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "Matlab"
+     <br />
+
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+
+## HPC Operational Status
+- [Type 1 (UCloud)](https://status.cloud.sdu.dk/)
+- [Type 3 (Hippo)](https://status.cloud.sdu.dk/)
+- [Type 5 (LUMI)](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)

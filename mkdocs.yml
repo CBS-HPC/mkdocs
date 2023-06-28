@@ -8,11 +8,11 @@ nav:
     - 'events.md'
     - HPC Facilites:
       - 'hpc.md'
-      - 'Type 1 – Interactive HPC (UCloud)': '/HPC_Facilities/UCloud/'
-      - 'National HPC Facilities (DeiC)': '/HPC_Facilities/DeiC/'
-      - 'WRDS - Wharton Research Data Services':  '/HPC_Facilities/WRDS/'
-      - 'Nationalt Genom Center HPC (Danish Statistics Data)': '/HPC_Facilities/NGC/'
-      - 'HPC Operational Status': '/HPC_Facilities/status/'
+#      - 'Type 1 – Interactive HPC (UCloud)': '/HPC_Facilities/UCloud/'
+#      - 'National HPC Facilities (DeiC)': '/HPC_Facilities/DeiC/'
+#      - 'WRDS - Wharton Research Data Services':  '/HPC_Facilities/WRDS/'
+#      - 'Nationalt Genom Center HPC (Danish Statistics Data)': '/HPC_Facilities/NGC/'
+#      - 'HPC Operational Status': '/HPC_Facilities/status/'
     - 'getresources.md'
     - 'tut_docs.md'
     - 'contact.md'
@@ -54,6 +54,9 @@ plugins:
         lang: en
     - awesome-pages # awesome-pages allows to hide folders (pip install)
     - macros # Allows custom macros.. used to import external files
+    - git-revision-date
+  #  - pdf-export:
+  #      combined: true
 # Section Links    
 markdown_extensions:
   - attr_list
@@ -63,4 +66,4 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true 
   - toc:
-      permalink: 
+      permalink: true
