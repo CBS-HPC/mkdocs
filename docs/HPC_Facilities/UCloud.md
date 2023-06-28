@@ -50,7 +50,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
     <br />
     ** International Collaborators**
 
-    International researchers need a **"visiting researcher premission"(gæsteforskeradgang)** to CBS to gain access to UCloud. One can be obtained by contacting CBS HR(hr@cbs.dk).
+    International researchers need a **"visiting researcher premission"(gæsteforskeradgang)** to CBS to gain access to UCloud. One can be obtained by contacting [CBS HR](https://www.cbs.dk/cbs/organisation/faellesadministrationen/hr) ([hr@cbs.dk](mailto:hr@cbs.dk)).
 
     Once this is in place CBS HPC support will contact the **UCloud Research Support Team** and provide the below shown information. 
 

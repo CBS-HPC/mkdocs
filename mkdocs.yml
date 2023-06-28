@@ -53,7 +53,7 @@ plugins:
     - search:
         lang: en
   #  - git-revision-date
-    - awesome-pages # awesome-pages allows to hide folders (pip install)
+  #  - awesome-pages # awesome-pages allows to hide folders (pip install)
   #  - macros # Allows custom macros.. used to import external files
   #  - pdf-export:
   #      combined: true
