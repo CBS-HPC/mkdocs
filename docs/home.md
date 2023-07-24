@@ -26,7 +26,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
 === "Development of HPC"
     <br />
-    We are committed to the continuous development of HPC resources at CBS. This is both by ensuring that researchers have access to the right facilities, both short- and long-terma, but also by providing a clear learning strategy for research to develop their HPC & data science skillset.
+    We are committed to the continuous development of HPC resources at CBS. This is both by ensuring that researchers have access to the right facilities, both short- and long-term, but also by providing a clear learning strategy for research to develop their HPC & data science skillset.
 
 === "Daily User Support"
     <br />
