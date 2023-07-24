@@ -3,16 +3,10 @@ repo_url: https://github.com/CBS-HPC/CBS-HPC.github.io
 repo_name: CBS-HPC/CBS-HPC.github.io
 
 nav:
-    - 'index.md'
+    - 'home.md'
     - 'news.md'
     - 'events.md'
-    - HPC Facilites:
-      - 'hpc.md'
-#      - 'Type 1 – Interactive HPC (UCloud)': '/HPC_Facilities/UCloud/'
-#      - 'National HPC Facilities (DeiC)': '/HPC_Facilities/DeiC/'
-#      - 'WRDS - Wharton Research Data Services':  '/HPC_Facilities/WRDS/'
-#      - 'Nationalt Genom Center HPC (Danish Statistics Data)': '/HPC_Facilities/NGC/'
-#      - 'HPC Operational Status': '/HPC_Facilities/status/'
+    - 'hpc.md'
     - 'getresources.md'
     - 'tut_docs.md'
     - 'contact.md'
@@ -23,7 +17,12 @@ theme:
   favicon: images/CBS_logo2.png
   features:
     - navigation.tabs
-    - toc.integrate
+    - navigation.indexes 
+    #- navigation.path
+    #- navigation.sections
+    # - navigation.expand
+    - toc.follow
+    #- toc.integrate
     - search.suggest
     - search.higlight
     - content.tabs.link
@@ -58,6 +57,8 @@ plugins:
   #  - pdf-export:
   #      combined: true
 # Section Links    
+    #- toc-md:
+
 markdown_extensions:
   - attr_list
   - md_in_html

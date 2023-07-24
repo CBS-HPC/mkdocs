@@ -88,6 +88,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 
 ## HPC Operational Status
-- [Type 1 (UCloud)](https://status.cloud.sdu.dk/)
-- [Type 3 (Hippo)](https://status.cloud.sdu.dk/)
-- [Type 5 (LUMI)](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)
+- [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
+- [TYPE 3 (Hippo)](https://status.cloud.sdu.dk/)
+- [TYPE 5 (LUMI)](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)
