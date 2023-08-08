@@ -3,7 +3,7 @@ repo_url: https://github.com/CBS-HPC/CBS-HPC.github.io
 repo_name: CBS-HPC/CBS-HPC.github.io
 
 nav:
-    - 'home.md'
+    - 'index.md'
     - 'news.md'
     - 'events.md'
     - 'hpc.md'

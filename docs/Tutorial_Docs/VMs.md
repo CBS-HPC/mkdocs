@@ -1,5 +1,15 @@
-# Virtual Machines on UCloud
+# Access GPUs on UCloud
 
-[How to Generate SSH key](/Tutorials/VMs/shh/)
+GPUs are accessible on UCloud through [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines) hosted by [AAU](https://cloud.sdu.dk/app/providers/detailed/aau). The user requires computing ressources for "DeiC Interactive HPC (AAU) / uc-t4 (GPU)" in order to access this application. These can be obtained through a [UCloud grant application](/HPC_Facilities/GrantApp/). Information on hardware specification can be found [here](/HPC_Facilities/MachineType/).
 
-[Acessing VM using SSH](/Tutorials/VMs/connectVM/)
+## Tutorials
+
+- [How to Generate SSH key](/Tutorials/VMs/shh/)
+
+- [Access VM using SSH](/Tutorials/VMs/connectVM/)
+
+- [Using Conda for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
+
+- [Setting up an interactive jupyter notebook session on AAU VM](/Tutorials/VMs/jupyterVM/)
+
+- [Setting up jupyter-notebook with GPUs on AAU using Docker images (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)

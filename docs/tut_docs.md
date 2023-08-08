@@ -5,7 +5,7 @@
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
 - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
 - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-- [Virtual Machines on UCloud](/Tutorial_Docs/VMs/)
+- [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
 - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
 - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
 

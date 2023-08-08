@@ -10,6 +10,8 @@ This approach is also highly useful when running [multi-node Slurm Clusters](/Tu
 
 [R](/Tutorials/Conda/Conda_R/)
 
+[R (using Mamba add-in)](/Tutorials/Conda/Mamba_R/)
+
 [Python](/Tutorials/Conda/Conda_Python/)
 
 Further documentation can be found on UCloud:
