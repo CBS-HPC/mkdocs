@@ -49,8 +49,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 ## Most Relevant Links 
 
 === "R"
-    <br />
-    
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
@@ -60,8 +58,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 
 === "Python"
-     <br />
-
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
@@ -71,26 +67,19 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
 
 === "STATA"
-     <br />
-
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "Matlab"
-     <br />
-
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "GPUs on UCloud"
-     #<br />
-    --8<-- "./Tutorial_Docs/VMs.md"
- 
- --8<-- "./Tutorial_Docs/VMs.md"
+    - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
