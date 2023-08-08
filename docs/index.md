@@ -88,12 +88,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "GPUs on UCloud"
      <br />
-
-    - [How to Generate SSH key](/Tutorials/VMs/shh/)
-    - [Access VM using SSH](/Tutorials/VMs/connectVM/)
-    - [Using Conda for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
-    - [Setting up an interactive jupyter notebook session on AAU VM](/Tutorials/VMs/jupyterVM/)
-    - [Setting up jupyter-notebook with GPUs on AAU using Docker images (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
+    --8<-- "docs\Tutorial_Docs\VMs.md"
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
