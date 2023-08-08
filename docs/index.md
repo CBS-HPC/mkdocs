@@ -87,8 +87,10 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "GPUs on UCloud"
-     <br />
+     #<br />
     --8<-- "./Tutorial_Docs/VMs.md"
+ 
+ --8<-- "./Tutorial_Docs/VMs.md"
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
