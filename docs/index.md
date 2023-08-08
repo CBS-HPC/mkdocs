@@ -88,7 +88,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "GPUs on UCloud"
      <br />
-    --8<-- "docs\Tutorial_Docs\VMs.md"
+    --8<-- "./docs/Tutorial_Docs/VMs.md"
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
