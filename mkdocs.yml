@@ -63,7 +63,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.superfences
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path: 'docs/'
   - pymdownx.tabbed:
       alternate_style: true 
   - toc:
