@@ -30,14 +30,16 @@ Find more information [here](https://escience.sdu.dk/index.php/ucloud-yougene-cl
 
 ![](images/uc-t4.PNG)
 
-### uc-t4-4 Specs
+### uc-t4-6 Specs
 
-**vCPU:**	40 cores
+**vCPU:**	60 cores
 
-**RAM:** 160 GB
+**RAM:** 240 GB
 
-**GPU:**	4
+**GPU:**    6 (NVIDIA T4)
 
-**Price:**	33,99 DKK/hour
+**Storage:**  10 TB
 
-**Description:**	Virtual machine with four NVIDIA T4 GPUs deployed on the AAU OpenStack system.
+**Price:**	50,94 DKK/hour
+
+**Description:**		Virtual machine with 6 NVIDIA T4 GPUs deployed and 10TB of storage on the AAU OpenStack system.

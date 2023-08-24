@@ -1,4 +1,5 @@
 # News
+- [23-08-24 - Larger GPU machine available for UCloud](/HPC_Facilities/MachineType/)
 - [23-07-24 - CodeRefinery workshop September 19-21 and 26-28, 2023](https://coderefinery.github.io/2023-09-19-workshop/)
 - [23-07-14 - DeiC - Call H1-2024 Call for applications for access to the e- resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 - [23-06-27 - Interactive HPC lives up to highest international standards with ISO 27001](https://interactivehpc.dk/?p=1309)
