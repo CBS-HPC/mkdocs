@@ -8,6 +8,8 @@
 - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
 - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
 - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+- [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/pytorch_ddp/)
+- [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/tf_ddp/)
 
 ### TYPE 1 (UCloud) 
 
