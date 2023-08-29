@@ -1,8 +1,9 @@
 # Events
 
 ## Upcoming
+[23-08-29 - Nordic HPC Workshops - Parallel Computing and AI with MATLAB:  11, 18, 25 & 26 September ](https://se.mathworks.com/company/events/seminars/series/mondays-with-matlab-hpc-workshops-nrd-2023.html?s_v1=50311&elqem=4081309_EM_NRD_DIR_23-08_MOE-EDU&elqTrackId=b9edc9bae3fe41a09032869c0f04d5cb&elq=668a608968774a9baa9578c370f73b6f&elqaid=50311&elqat=1&elqCampaignId=18845)
 
-No events are planned in the near future
+[23-07-24 - CodeRefinery workshop September 19-21 and 26-28, 2023](https://coderefinery.github.io/2023-09-19-workshop/)
 
 ## Past 
 

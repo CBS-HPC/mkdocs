@@ -78,10 +78,12 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
-=== "AI /Deep-learning on GPUs"
+=== "Computing on GPUs"
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
     - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/pytorch_ddp/)
     - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/tf_ddp/)
+    - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/AI/rapids/)
+
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
 - [TYPE 3 (Hippo)](https://status.cloud.sdu.dk/)

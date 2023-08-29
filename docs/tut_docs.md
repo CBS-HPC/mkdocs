@@ -1,15 +1,22 @@
 # Tutorials & Documentation
 
 ### CBS Tutorials
+
+**Type 1: CPU**
+
 - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
 - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
 - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
 - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-- [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
 - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
 - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+
+**Type 1: GPU**
+
+- [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
 - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/pytorch_ddp/)
 - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/tf_ddp/)
+- [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/AI/rapids/)
 
 ### TYPE 1 (UCloud) 
 
