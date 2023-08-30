@@ -14,7 +14,7 @@ For further support lease contact [RDM Support](/Contact/).
 - [Matlab](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-matlab/matlab-from-your-computer/)
 - [SAS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-sas/sas-from-your-computer/)
 - [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
-- [UCloud Templates/Scripts](https://github.com/CBS-HPC/.github/tree/main/WRDS) 
+- [UCloud Templates/Scripts](https://github.com/CBS-HPC/Tutorials/tree/main/WRDS) 
 
 ### WRDS Cloud
 [WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS. **WRDS Cloud is only acessable for CBS staff and researchers.**
