@@ -8,9 +8,7 @@ Using a Conda environement elimnates the need for re-installing all the needed p
 
 This approach is also highly useful when running [multi-node Slurm Clusters](/Tutorial_Docs/SLURM/). 
 
-[R](/Tutorials/Conda/Conda_R/)
-
-[R (using Mamba add-in)](/Tutorials/Conda/Mamba_R/)
+[R](/Tutorials/Conda/Mamba_R/)
 
 [Python](/Tutorials/Conda/Conda_Python/)
 

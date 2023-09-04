@@ -7,9 +7,3 @@ GPUs are accessible on UCloud through [virtual machines](https://cloud.sdu.dk/ap
 - [How to Generate SSH key](/Tutorials/VMs/shh/)
 
 - [Access VM using SSH](/Tutorials/VMs/connectVM/)
-
-- [Using Conda for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
-
-- [Setting up an interactive jupyter notebook session on AAU VM](/Tutorials/VMs/jupyterVM/)
-
-- [Setting up jupyter-notebook with GPUs on AAU using Docker images (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)

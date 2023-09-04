@@ -56,7 +56,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
-
 === "Python"
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
@@ -65,7 +64,6 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
-
 === "STATA"
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
@@ -79,10 +77,14 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "Computing on GPUs"
+    - [GPU Specs](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
-    - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/pytorch_ddp/)
-    - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/tf_ddp/)
-    - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/AI/rapids/)
+    - [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
+    - [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)
+    - [Setting up jupyter-notebook with GPUs on AAU using Docker images (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
+    - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
+    - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
+    - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)

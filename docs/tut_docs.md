@@ -14,9 +14,11 @@
 **Type 1: GPU**
 
 - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
-- [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/pytorch_ddp/)
-- [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/AI/tf_ddp/)
-- [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/AI/rapids/)
+- [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
+- [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)
+- [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
+- [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
+- [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
 
 ### TYPE 1 (UCloud) 
 
