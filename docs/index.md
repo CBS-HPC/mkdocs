@@ -77,7 +77,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "Computing on GPUs"
-    - [GPU Specs](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
+    - [Which GPU to Choose?](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
     - [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
     - [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)

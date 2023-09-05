@@ -26,18 +26,24 @@
 
 Four different machine types based on different Nvidia GPUs (T4, A10 , A40 and A100) with different application purposes. Their specifications are summarized in a table below.
 
-**CUDA Cores provides a platform for general-purpose computing on GPUs.**
 
-**Tensor Cores are specialized processing units designed for matrix operations in deep learning.**
+| GPU        | Architecture | CUDA Cores | Tensor Cores | Memory          | Relative Speedup* | Data Sheet                                        |
+|------------|--------------|------------|--------------|-----------------|-------------------|---------------------------------------------------|
+| Nvidia T4  | Turing       | 2,560      | 320          | 16 GB GDDR6     |       1            | [T4](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf)  |
+| Nvidia A100| Ampere       | 6,912      | 432          | 80 GB HBM2      |       10            | [A100](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/Nvidnvidia-a100-datasheet-nvidia-us-2188504-web.pdf)  |
+| Nvidia A40 | Ampere       | 10,240     | 320          | 48 GB GDDR6     |        5           | [A40](https://images.nvidia.com/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf)  |
+| Nvidia A10 | Ampere       | 6,144      | 384          | 24 GB GDDR6     |                   | [A10](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/datasheet-new/nvidia-a10-datasheet.pdf)  |
 
-** A more detailed description can be found [here](https://medium.com/@primedeviation/cuda-vs-tensor-cores-a-guide-for-ml-workloads-and-model-training-1756bedd5f03)
 
-| GPU        | Architecture | CUDA Cores | Tensor Cores | Memory          | Data Sheet                                        |
-|------------|--------------|------------|--------------|-----------------|---------------------------------------------------|
-| Nvidia T4  | Turing       | 2,560      | 320          | 16 GB GDDR6     | [T4](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf)  |
-| Nvidia A100| Ampere       | 6,912      | 432          | 80 GB HBM2      | [A100](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/Nvidnvidia-a100-datasheet-nvidia-us-2188504-web.pdf)  |
-| Nvidia A40 | Ampere       | 10,240     | 320          | 48 GB GDDR6     | [A40](https://images.nvidia.com/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf)  |
-| Nvidia A10 | Ampere       | 6,144      | 384          | 24 GB GDDR6     | [A10](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/datasheet-new/nvidia-a10-datasheet.pdf)  |
+- **CUDA cores** are the general-purpose processing units in a GPU that can perform computations with standard floating-point precision, such as single-precision (32-bit) or double-precision (64-bit).
+
+- **Tensor Cores** are optimized to trade off precision for speed and can significantly accelerate deep learning training and inference.
+
+- A more detailed description can be found [here](https://medium.com/@primedeviation/cuda-vs-tensor-cores-a-guide-for-ml-workloads-and-model-training-1756bedd5f03).
+
+* links 
+
+
 
 
 **The different GPUs are avaliable on the following machines:**
