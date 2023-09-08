@@ -48,34 +48,27 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
 ## Most Relevant Links 
 
+=== "General"
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)   
 === "R"
-    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
-    - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+    - [Use Conda on UCloud to manage R-packages](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
-    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
-    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
 === "Python"
-    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-    - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+    - [Use Conda on UCloud to manage Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
-    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
-    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
 === "STATA"
-    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
-    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
-    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+    - [Run Stata on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
+    - [Install Stata on UCloud](/Tutorials/STATA/install/)
+    - [Run Stata in jupyter-notebooks](/Tutorials/STATA/jupyter/)
+=== "SAS"
+    - [Run SAS on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
 === "Matlab"
-    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
-    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
-    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
-    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+    - [Run Matlab on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
 === "Computing on GPUs"
     - [Which GPU to Choose?](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
