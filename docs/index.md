@@ -56,10 +56,10 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 === "R"
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Use Conda on UCloud to manage R-packages](/Tutorial_Docs/Conda/)
-    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
 === "Python"
     - [Use Conda on UCloud to manage Python-libraries](/Tutorial_Docs/Conda/)
-    - [SLURM Clusters on UCloud](/UCloud_SlurmCluster/SLURM/)
+    - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
 === "STATA"
     - [Run Stata on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)

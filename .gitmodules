@@ -1,6 +1,3 @@
-[submodule "docs/UCloud_SlurmCluster"]
-	path = docs/UCloud_SlurmCluster
-	url = https://github.com/CBS-HPC/UCloud_SlurmCluster
 [submodule "docs/Tutorials"]
 	path = docs/Tutorials
 	url = https://github.com/CBS-HPC/Tutorials
