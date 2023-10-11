@@ -72,6 +72,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 === "Computing on GPUs"
     - [Which GPU to Choose?](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
+    - [GPU Libraries for Python and R](/Tutorials/GPU/gpu_libraries/)
     - [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
     - [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)
     - [Setting up jupyter-notebook with GPUs on AAU using Docker images (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
