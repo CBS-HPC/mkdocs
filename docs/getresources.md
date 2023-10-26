@@ -20,7 +20,20 @@ Currently, CBS primarily have **Local** Type 1 resources as the reflects our cur
     - Otherwise please contact [RDM Support](/Contact/).
 
 === "TYPE 3 (Hippo)"
-    Please contact [RDM Support](/Contact/) if you would like to CBS to request **Local** resources to Type 3.
+    
+    **Students**
+
+    - CBS students can only under very specific situation get access to Type 3 HPC. If this is of interrest you are welcome to contact [RDM Support](/Contact/) to discuss further.
+
+    - Please contact [RDM Support](/Contact/) if you would like to CBS to request **Local** resources to Type 3.
+
+    **Researchers & Staff**
+    
+    - You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). 
+    
+    - In 2023 CBS has a very limited Type 3 resource pool. Type 3 grant applications are therefore only granted after thorough evulation by the [RDM Support](/Contact/).
+    
+    - For more information please contact [RDM Support](/Contact/).
 
 === "Other"
     Please contact [RDM Support](/Contact/) if you would like to CBS to request **Local** resources to Type 2 and 5.

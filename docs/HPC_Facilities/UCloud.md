@@ -9,7 +9,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
 
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorial_Docs/VMs/). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). 
 
-### System Specifications 
+## System Specifications 
 
 System specifications can be found [here](/HPC_Facilities/MachineType/).
 
@@ -30,6 +30,8 @@ All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing 
 ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html).
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/Hour. So the free 1000 DKK will give you access to approx. 182 hours of inital run time.**
+
+**For additional resources see [here](/getresources/).**
 
 Start by watching the following UCloud tutorials:
 
@@ -65,28 +67,6 @@ Once this is in place CBS HPC support will contact the **UCloud Research Support
 - Email (University):
 
 Subsequently, the **UCloud Research Support Team** will contact the researcher to verify their identity through a video meeting. A valid ID is needed. 
-
-## Apply for Funds
-
-=== "Students"
-     <br />
-    CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
-
-    If this is not possible then you welcome to contact [RDM Support](/Contact/) to discuss further.
-
-    The ressources will be provided within a UCloud project and not to a user "My Workspace".
-
-=== "Researchers & Staff"
-    <br />
-    Further funds can be obtianed in two ways: 
-
-    1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). Information on machine type selection be found [here](/HPC_Facilities/MachineType/). Otherwise please contact [RDM Support](/Contact/).
-
-    2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact [RDM Support](/Contact/) as soon as possible if you consider applying.
-
-    For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
-
-    This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) in publications.
 
 ## License Software
 

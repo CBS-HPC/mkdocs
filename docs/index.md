@@ -48,7 +48,16 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
 ## Most Relevant Links 
 
-=== "General"
+=== "Online Learning"
+    - [The Turing Way - Guide for Reproducible Research in Data Science ](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+    - [Coderefinery - Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
+    - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
+    - [Kaggle.com: Online interactive data science courses](https://www.kaggle.com/learn)
+    - [Kaggle.com: Python](https://www.kaggle.com/learn/python)
+    - [Kaggle.com: Getting staRted in R: First Steps](https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps)
+    - [Datacarpentry - Introduction to Stata for Economics](https://datacarpentry.org/stata-economics/)
+
+=== "UCloud"
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
@@ -60,16 +69,24 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 === "Python"
     - [Use Conda on UCloud to manage Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
-    - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
-=== "STATA"
+
+=== "STATA / SAS / Matlab"
+    
+    **STATA**
+
     - [Run Stata on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
     - [Install Stata on UCloud](/Tutorials/STATA/install/)
     - [Run Stata in jupyter-notebooks](/Tutorials/STATA/jupyter/)
-=== "SAS"
+    - [Run Stata on Type 3 ](/Tutorials/Type3/Stata/)
+
+    **SAS**
+
     - [Run SAS on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
-=== "Matlab"
+    
+    **Matlab**
+
     - [Run Matlab on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
-=== "Computing on GPUs"
+=== "GPUs"
     - [Which GPU to Choose?](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
     - [GPU Libraries for Python and R](/Tutorials/GPU/gpu_libraries/)
@@ -79,6 +96,12 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
     - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
     - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
+=== "Large Memory HPC"
+    - [Getting Started with large memory HPC (UCloud)](/HPC_Facilities/Hippo/)
+    - [Type 3 user guide (from SDU)](https://docs.hpc-type3.sdu.dk/)
+    - [Run Stata on Type 3 ](/Tutorials/Type3/Stata/)
+    - [Use Conda to manage Jupyterlab environments on Type 3](/Tutorials/Type3/Conda_Jupyter/)
+
 
 ## HPC Operational Status
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
