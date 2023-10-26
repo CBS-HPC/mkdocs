@@ -16,7 +16,7 @@
 
     [![Python](./images/course_python.png)&nbsp;&nbsp;23-10-27 @ 13.00-14.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4094618)
 
-    [![R](./images/course_R.png)&nbsp;&nbsp;23-10-26 @ 13.00-14.00: - HPC & Parallel Programming in R](https://cbs.libcal.com/event/4094617)
+    [![R](./images/course_R.png)&nbsp;&nbsp;23-10-26 @ 13.00-14.00: - HPC & Parallel Programming in R](https://cbs.libcal.com/event/4094617) - [**[Download Slides]**](/pdf/231026_HPC_&_Parallel_Programming_in_R_students.pdf)
 
     [![intro](./images/course_intro.jpg)&nbsp;&nbsp;23-10-23 @ 13.00-14.00: - High Performance Computing](https://cbs.libcal.com/event/4094292) - [**[Download Slides]**](/pdf/231023_VIPsession_Intro2HPC_students.pdf)
 === "For All"
