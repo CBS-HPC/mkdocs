@@ -14,7 +14,7 @@
 === "For Students"
     <br />
 
-    [![Python](./images/course_python.png)&nbsp;&nbsp;23-10-27 @ 13.00-14.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4094618)
+    [![Python](./images/course_python.png)&nbsp;&nbsp;23-10-27 @ 13.00-14.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4094618) - [**[Download Slides]**](/pdf/231027_HPC_&_Parallel_Programming_in_Python_students.pdf)
 
     [![R](./images/course_R.png)&nbsp;&nbsp;23-10-26 @ 13.00-14.00: - HPC & Parallel Programming in R](https://cbs.libcal.com/event/4094617) - [**[Download Slides]**](/pdf/231026_HPC_&_Parallel_Programming_in_R_students.pdf)
 
