@@ -69,3 +69,8 @@ markdown_extensions:
       alternate_style: true 
   - toc:
       permalink: true
+  - pymdownx.pathconverter:
+      base_path: 'mkdocs' # default: ''
+      relative_path: '' # default ''
+      absolute: true # default: false
+      tags: 'a script img link object embed'
