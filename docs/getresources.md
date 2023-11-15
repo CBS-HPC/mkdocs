@@ -1,9 +1,19 @@
 # Get Resources
 
 ## Local Resources
-Twice a year CBS is awarded **Local** HPC ressources that can be freely distributed to our researchers and students. 
+Twice a year CBS is awarded **Local** HPC ressources that can be freely distributed to our researchers and students. CBS primarily have **Local** Type 1 resources as the reflects our current user needs:
 
-Currently, CBS primarily have **Local** Type 1 resources as the reflects our current user needs.
+
+| Name          | System     | Type   | Total CBS Core H (approx.)| Smallest Machine (Core H/hour)  | Largest Machine (Core H/hour) |
+|---------------|------------|--------|---------------------------|---------------------------------|-------------------------------|
+| u1-standard   | Type 1     | CPU    | 2,000,000                 | 1                               | 64                            |
+| uc-t4-h       | Type 1     | GPU    | 88,000                    | 10                              |                               |
+| uc-a10-h      | Type 1     | GPU    | 103,000                   |                                 |                               |
+| uc-a40-h      | Type 1     | GPU    | 265,000                   |                                 |                               |
+| uc-a100-h     | Type 1     | GPU    | 53,000                    |                                 |                               |
+
+
+## How to get Local Resources
 
 === "TYPE 1 (UCloud)"
     
@@ -11,7 +21,7 @@ Currently, CBS primarily have **Local** Type 1 resources as the reflects our cur
 
     - When you need more/other resources you should contact [RDM Support](/Contact/) to discuss further. 
 
-    **Researchers & Staff**
+    **Staff**
     
     - You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). 
     
@@ -27,7 +37,7 @@ Currently, CBS primarily have **Local** Type 1 resources as the reflects our cur
 
     - Please contact [RDM Support](/Contact/) if you would like to CBS to request **Local** resources to Type 3.
 
-    **Researchers & Staff**
+    **Staff**
     
     - You apply from UCloud by sending a [UCloud grant application](/HPC_Facilities/GrantApp/). 
     

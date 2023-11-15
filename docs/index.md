@@ -87,7 +87,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
     - [Run Matlab on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
 === "GPUs"
-    - [Which GPU to Choose?](/HPC_Facilities/MachineType/#deic-interactive-hpc-aau)
+    - [Which GPU to Choose?](/HPC_Facilities/MachineType/)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
     - [GPU Libraries for Python and R](/Tutorials/GPU/gpu_libraries/)
     - [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
