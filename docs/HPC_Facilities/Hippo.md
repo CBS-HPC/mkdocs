@@ -1,7 +1,6 @@
 title: Type 3 – Large Memory HPC (Hippo)
 # Type 3 – Large Memory HPC (Hippo)     [![UCloud](/HPC_Facilities/images/type3.png){ align=right}](https://docs.hpc-type3.sdu.dk/) 
 
-
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. Type 3 is hosted and maintained at SDU. 
 
 The DeiC Large Memory HPC system is a system consisting of large memory nodes (between 1 and 4 TB RAM per node).
