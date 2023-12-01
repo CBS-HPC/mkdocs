@@ -2,40 +2,40 @@
 
 ### CBS Tutorials
 
-**Type 1: CPU**
+=== "Type 1: CPU"
 
-- [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
-- [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
-- [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
-- [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
-- [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
-- [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
+    - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
+    - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
+    - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
+    - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
 
-**Type 1: GPU**
+=== "Type 1: GPU"
 
-- [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
-- [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
-- [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)
-- [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
-- [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
-- [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
+    - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
+    - [Conda: for easy workflow deployment on AAU GPU VMs](/Tutorials/VMs/condaVM/)
+    - [Run Python and R jupyter notebooks on AAU VMs](/Tutorials/VMs/jupyterVM/)
+    - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
+    - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
+    - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
 
 ### TYPE 1 (UCloud) 
 
-**SDU**
+=== "SDU"
 
-- [Manage Files and Folders (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
-- [Manage Applications (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial2.html)
-- [Manage Workspaces (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
-- [Use Cases (Hosted by UCloud)](https://docs.cloud.sdu.dk/hands-on/use-cases.html)
-- [Webinars (Hosted by UCloud)](https://docs.cloud.sdu.dk/hands-on/webinars.html)
-- [UCloud Documentation (Hosted by UCloud)](https://docs.cloud.sdu.dk/index.html)
-- [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
-- [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
+    - [Manage Files and Folders (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+    - [Manage Applications (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial2.html)
+    - [Manage Workspaces (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+    - [Use Cases (Hosted by UCloud)](https://docs.cloud.sdu.dk/hands-on/use-cases.html)
+    - [Webinars (Hosted by UCloud)](https://docs.cloud.sdu.dk/hands-on/webinars.html)
+    - [UCloud Documentation (Hosted by UCloud)](https://docs.cloud.sdu.dk/index.html)
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+    - [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
 
-**AAU**
+=== "AAU"
 
-- [Setting up jupyter-notebook with GPUs on AAU (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
+    - [Setting up jupyter-notebook with GPUs on AAU (Hosted by RUC)](https://hpc.ruc.dk/blog/uncategorized/setting-up-jupyternotebook-with-gpus-on-aau/)
 
 ### TYPE 2 (Throughput)
 - [Computerome 2.0 - Documentation](https://www.computerome.dk/wiki/high-performance-computing-hpc)

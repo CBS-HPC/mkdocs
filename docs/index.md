@@ -46,18 +46,24 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
     By offering expert consultation, we help researchers identify and address their specific HPC needs, ensuring they can effectively utilize the available resources and optimize their workflows and code for maximum performance and efficiency.
 
-## Most Relevant Links 
+## Data Science Links 
 
-=== "Online Learning"
+=== "Reproducible Data Science"
     - [The Turing Way - Guide for Reproducible Research in Data Science ](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+    - [Cookiecutter Data Science - Reproducible Project Structure](https://drivendata.github.io/cookiecutter-data-science/#links-to-related-projects-and-references)
     - [Coderefinery - Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
+    - [How to Create a Conda Environment Based on a YAML File: A Guide for Data Scientists](https://saturncloud.io/blog/how-to-create-a-conda-environment-based-on-a-yaml-file-a-guide-for-data-scientists/)
+=== "Online Learning"
     - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
     - [Kaggle.com: Online interactive data science courses](https://www.kaggle.com/learn)
     - [Kaggle.com: Python](https://www.kaggle.com/learn/python)
     - [Kaggle.com: Getting staRted in R: First Steps](https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps)
     - [Datacarpentry - Introduction to Stata for Economics](https://datacarpentry.org/stata-economics/)
 
-=== "UCloud"
+
+## HPC/UCloud Tutorials
+
+=== "General"
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
@@ -86,6 +92,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     **Matlab**
 
     - [Run Matlab on UCloud](https://cbs-hpc.github.io/HPC_Facilities/UCloud/#license-software)
+
 === "GPUs"
     - [Which GPU to Choose?](/HPC_Facilities/MachineType/)
     - [Access GPUs on UCloud](/Tutorial_Docs/VMs/)
@@ -107,3 +114,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 - [TYPE 1 (UCloud)](https://status.cloud.sdu.dk/)
 - [TYPE 3 (Hippo)](https://status.cloud.sdu.dk/)
 - [TYPE 5 (LUMI)](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)
+
+**Planned Maintenance**
+
+- [04-12-23 - Planned upgrade of the DeiC Interactive HPC infrastructure](https://interactivehpc.dk/?p=1416)

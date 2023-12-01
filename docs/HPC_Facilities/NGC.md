@@ -6,4 +6,4 @@ A techinal guide is found [here](https://www.dst.dk/Site/Dst/SingleFiles/GetArch
 
 The linked information is **only** avaliable in danish.
 
-**For further information or support please contact [RDM Support](/Contact/).**
+**For further information or support please contact [RDM Support](/contact/).**

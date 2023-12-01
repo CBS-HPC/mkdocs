@@ -1,6 +1,6 @@
 # Applying for ressources in 6 Simple Steps
 
-If you have any further questions you are welcome to contact [RDM Support](/Contact/).
+If you have any further questions you are welcome to contact [RDM Support](/contact/).
 
 ## Step 1: Select "Apply for resources" on the UCloud frontpage 
 ![](/HPC_Facilities/images/grant1.PNG)

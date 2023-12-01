@@ -19,11 +19,9 @@ Upon the first login it is necessary to approve the SDU eScience [terms of servi
 
 **Note:** After login the user can activate [two factor authentication](https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication) by clicking on the avatar icon in the top-right corner of the home screen.
 
-## Geting started
+## Getting started
 
 All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU only) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
-
-["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html).
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/Hour. So the free 1000 DKK will give you access to approx. 182 hours of inital run time.**
 
@@ -42,7 +40,7 @@ Start by watching the following UCloud tutorials:
 
 ## User Support
 
-All UCloud support should go through the [RDM Support](/Contact/). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
+All UCloud support should go through the [RDM Support](/contact/). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
 
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 

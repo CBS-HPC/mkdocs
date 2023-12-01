@@ -1,6 +1,6 @@
 # Add License to STATA and SAS application
 
-If you have any further questions you are welcome to contact [RDM Support](/Contact/).
+If you have any further questions you are welcome to contact [RDM Support](/contact/).
 
 ## Add Local License 
 

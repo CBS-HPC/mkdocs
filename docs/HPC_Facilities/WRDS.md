@@ -4,7 +4,7 @@
 
 More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
-For further support lease contact [RDM Support](/Contact/).
+For further support lease contact [RDM Support](/contact/).
 
 ## Accessing WRDS databases:
 
