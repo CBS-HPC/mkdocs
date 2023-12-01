@@ -5,7 +5,7 @@ The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [U
 
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-[AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorial_Docs/VMs/). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/). 
+[AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](/Tutorial_Docs/VMs/). It is possible to set up interactive enviroments such as [JupyterLab](/Tutorials/VMs/jupyterVM/). 
 
 **System specifications can be found [here](/HPC_Facilities/MachineType/).**
 
