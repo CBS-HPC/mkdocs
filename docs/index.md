@@ -103,6 +103,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
     - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
     - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
+    - [RAPIDS-cuDF: How To Speed Up Pandas in Python By 150x](/Tutorials/GPU/rapids_cudf/)
 === "Large Memory HPC"
     - [Getting Started with large memory HPC (UCloud)](/HPC_Facilities/Hippo/)
     - [Type 3 user guide (from SDU)](https://docs.hpc-type3.sdu.dk/)

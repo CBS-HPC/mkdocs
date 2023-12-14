@@ -19,6 +19,7 @@
     - [Pytorch: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/pytorch_ddp/)
     - [Tensorflow: Train your deep-learning models on UCloud GPUs](/Tutorials/GPU/tf_ddp/)
     - [RAPIDS-cuML: Train your Scikit-learn models on UCloud GPUs](/Tutorials/GPU/rapids_cuml/)
+    - [RAPIDS-cuDF: How To Speed Up Pandas in Python By 150x](/Tutorials/GPU/rapids_cudf/)
 
 ### TYPE 1 (UCloud) 
 
