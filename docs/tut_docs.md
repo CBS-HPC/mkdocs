@@ -4,8 +4,8 @@
 
 === "Type 1: CPU"
 
-    - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
+    - [Speed up your Linear Algebra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Using Conda on UCloud to manage R-packages and Python-libraries](/Tutorial_Docs/Conda/)
     - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
