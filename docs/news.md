@@ -1,4 +1,5 @@
 # News
+- [24-05-21 - New UCloud User Interface](https://interactivehpc.dk/?p=1474)
 - [23-10-25 - Whisper large language model from OpenAI for Transcription of audio files (UCloud)](https://hpc.ruc.dk/blog/news/transcription-of-audio-files/)
 - [23-08-24 - Larger GPU machine available for UCloud](/HPC_Facilities/MachineType/)
 - [23-07-24 - CodeRefinery workshop September 19-21 and 26-28, 2023](https://coderefinery.github.io/2023-09-19-workshop/)

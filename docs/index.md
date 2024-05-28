@@ -20,7 +20,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     <br />
     We conducts teaching activities through researcher and student webinars. Titles include "High Performance Computing", "HPC & Parallel Programming in R," and "HPC & Parallel Programming in Python" with more in the pipeline.
 
-    See "Events" section for more [information](/docs/events/).
+    See "Events" section for more [information](/events/).
 
     **Upon receiving requests from course coordinators, we are also available to participate in teaching activities for courses at CBS.**
 
@@ -117,5 +117,3 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 - [TYPE 5 (LUMI)](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)
 
 **Planned Maintenance**
-
-- [04-12-23 - Planned upgrade of the DeiC Interactive HPC infrastructure](https://interactivehpc.dk/?p=1416)

@@ -2,66 +2,118 @@
 
 The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU**.
 
-=== "SDU"
-    [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+## Costs
+Machine types are devided into CPU and GPU based machines with their costs being  measured in **core hours** and **GPU core-hours** respectively.
+
+A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machine cost 1 (GPU) core-hour pr. hour.
 
 
-    **u1-standard**
+## Overview
 
-    **The following machines are available:**
+=== "SDU/K8"
+
+    [(SDU/K8)](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** and **GPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/apps_index.html).
+
+    **CPU Nodes (u1-standard):**
+    
+        Dell PowerEdge C6420
+        2x Intel Xeon Gold 6130 @ 2.10 Ghz (total of 64 vCPU)
+        384 GB DDR4-2400
 
     ![](/HPC_Facilities/images/u1-standard.PNG)
+        
+    **GPU Nodes (u3-gpu):**
+        
+        Lenovo ThinkSystem SR675 V3  
+        2x AMD EPYC 9454 @ 2.75 Ghz (total of 192 vCPU) 
+        768 GB DDR5-4800 
+        4x NVIDIA Hopper H100-SXM5, 80 GB
 
-    **The specification of the largest node (u1-standard-64) are summarized below:**
+    ![](/HPC_Facilities/images/u3-gpu.PNG)
 
-    **Dell PowerEdge C6420**
+    **Storage:**
 
-    **CPU:**	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
+        u1-cephfs -	The storage system for DeiC interactive HPC
 
-    **RAM:** 384 GB  DDR 4-2666
+=== "AAU/K8"
 
-    **Price:** 5,49 DKK/hour
+    [(AAU/K8)](https://cloud.sdu.dk/app/providers/detailed/aau-k8) provides **CPU** and **GPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/apps_index.html).
 
-    **Description:** The full node consists of 2x Intel(R) Xeon(R) Gold 6130 CPU@2.10 GHz, 32 virtual cores/CPU, and 384 GB of memory.
+    **CPU Nodes (uc1-gc):**
+
+        128 AMD EPYC 7702 
+        512 GBs of RAM
+        4x NVIDIA A10 GPU
+    
+    ![](/HPC_Facilities/images/u1-gc.PNG)
+
+    **GPU Nodes (uc1-A10):**
+
+        64 Intel Xeon Gold 6326
+        256 GBs of RAM
+        4x NVIDIA A10 GPU
+    
+    ![](/HPC_Facilities/images/u1-a10.PNG)
+
+    **Storage:**
+
+        uc1-cephfs - The storage system for DeiC interactive HPC (AAU).
+
 
 === "AAU"
+    
     [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/).
 
-    Four different machine types based on different Nvidia GPUs (T4, A10 , A40 and A100) with different application purposes. 
+    === "NO SENSITIVE DATA"
 
+        Virtual machines hosted by AAU are only suitable for the processing of
+
+        - public and,
+        - low risk internal data.
+
+        The specific data classification model applicable to your institution should be consulted before using these compute resources.
+
+        AUTOMATIC SHUT OFF AND DELETION
+
+        It is your responsibility to ensure that you have sufficient resources to keep your virtual machine running while you need it. All virtual machines are automatically shut off when the user runs out of resources.
+
+        To restart the machine, additional funds should be requested from your front office to cover the full duration that the virtual machine is shut off, plus any additional compute time.
+
+        All data and information related to virtual machines are IRRECOVERABLY deleted if shut off for:
+
+        - A100 virtual machines: 3 days (72 hours)
+        - All other virtual machines: 14 days (336 hours)
+
+
+        Four different machine types based on different Nvidia GPUs (T4, A10 , A40 and A100) with different application purposes. 
+
+        **Nvidia A100 is avaliable on the following machines:**
 
     === "Nvidia T4"
-        - AI Inference: The T4 is optimized for AI inference workloads, making it suitable for applications like image and speech recognition, natural language processing, and recommendation systems in data centers.
-
+       
         **Nvidia T4 is avaliable on the following machines:**
-        
+
         ![](/HPC_Facilities/images/uc-t4.PNG)
 
-        ![](/HPC_Facilities/images/uc-t4h.PNG)
-
     === "Nvidia A10"
-        - Data Center Workloads: The A10 offers a balance of compute power and memory, making it versatile for various data center tasks, including virtualization, cloud computing, and database acceleration.
-
+        
         **Nvidia A10 is avaliable on the following machines:**
         
         ![](/HPC_Facilities/images/uc-a10.PNG)
 
     === "Nvidia A40"
-        - High-Performance Computing (HPC): The A40 is designed for HPC applications, such as scientific simulations, climate modeling, and molecular dynamics, where high computational power is essential.
-
-        **Nvidia A40 is avaliable on the following machines:**
         
+        **Nvidia A40 is avaliable on the following machines:**
+
         ![](/HPC_Facilities/images/uc-a40.PNG)
 
     === "Nvidia A100"
-        - Deep Learning and AI Research: The A100 excels in deep learning training and AI research, enabling faster model training for tasks like image recognition, natural language understanding, and autonomous driving.
-        - High-Performance Computing (HPC): It's also used in HPC environments for tasks like molecular dynamics simulations, quantum chemistry, and climate modeling, thanks to its exceptional computational capabilities.
 
         **Nvidia A100 is avaliable on the following machines:**
         
         ![](/HPC_Facilities/images/uc-a100.PNG)
 
-    === "Specification Comparisons"    
+    === "Specifications"    
 
         Their specifications are summarized in a table below.
 
