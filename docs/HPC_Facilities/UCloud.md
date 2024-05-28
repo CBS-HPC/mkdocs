@@ -3,12 +3,6 @@ title: Type 1 – Interactive HPC (UCloud)
 
 The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU** and consist of three HPC Facilites:
 
-- [SDU/K8](https://cloud.sdu.dk/app/providers/detailed/ucloud) 
-
-- [AAU/K8](https://cloud.sdu.dk/app/providers/detailed/aau-k8)
-
-- [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) 
-
 [(SDU/K8)](https://cloud.sdu.dk/app/providers/detailed/ucloud) and [(AAU/K8)](https://cloud.sdu.dk/app/providers/detailed/aau-k8) provides **CPU** and **GPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/apps_index.html).
 
 
