@@ -1,6 +1,16 @@
 # Type 1 – Interactive HPC (UCloud)     [![UCloud](/HPC_Facilities/images/hpc_ucloud.png){ align=right}](https://cloud.sdu.dk/app/login) 
 
-The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU**.
+The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). 
+
+This service is provided by the Danish universities **SDU** and **AAU** and consist of three HPC systems:
+
+
+| Institution | System      | User Access       | User-Friendly | Sensitive data |
+|-------------|-------------|-------------------|---------------|----------------|
+| SDU/K8      | Kubernetes  | GUI / Interactive | Yes           | Yes            |
+| AAU/K8      | Kubernetes  | GUI / Interactive | Yes           | Yes            |
+| AAU         | Open Stack  | SSH / terminal    | No            | No             |
+
 
 ## Costs
 Machine types are devided into CPU and GPU based machines with their costs being  measured in **core hours** and **GPU core-hours** respectively.
@@ -8,7 +18,23 @@ Machine types are devided into CPU and GPU based machines with their costs being
 A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machine cost 1 (GPU) core-hour pr. hour.
 
 
-## Overview
+## Machine Type
+
+=== "Overview"
+    
+    These HPC systems provides users with the following machine types:
+
+    | Name       | Institution | CPU (Cores) | RAM (GB) | GPU (Cores)       | User Access       | User-Friendly |
+    |------------|-------------|-------------|----------|-------------------|-------------------|---------------|
+    | u1-standard| SDU/K8      | 64          | 384      | N/A               | GUI / Interactive | Yes           |
+    | u3-gpu     | SDU/K8      | 192         | 768      | 4x NVIDIA H100    | GUI / Interactive | Yes           |
+    | uc1-gc     | AAU/K8      | 128         | 512      | N/A               | GUI / Interactive | Yes           |
+    | uc1-A10    | AAU/K8      | 64          | 256      | 4x NVIDIA A10     | GUI / Interactive | Yes           |
+    | uc-t4      | AAU         | 60          | 240      | 6x Nvidia T4      | SSH / terminal    | No            |
+    | uc-a10     | AAU         | 64          | 240      | 4x Nvidia A10     | SSH / terminal    | No            |
+    | uc-a40     | AAU         | 64          | 480      | 3x Nvidia A40     | SSH / terminal    | No            |
+    | uc-a100    | AAU         | 64          | 480      | 2x Nvidia A100    | SSH / terminal    | No            |
+
 
 === "SDU/K8"
 
@@ -17,7 +43,7 @@ A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machi
     **CPU Nodes (u1-standard):**
     
         Dell PowerEdge C6420
-        2x Intel Xeon Gold 6130 @ 2.10 Ghz (total of 64 vCPU)
+        64 Core Intel Xeon Gold 6130
         384 GB DDR4-2400
 
     ![](/HPC_Facilities/images/u1-standard.PNG)
@@ -25,7 +51,7 @@ A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machi
     **GPU Nodes (u3-gpu):**
         
         Lenovo ThinkSystem SR675 V3  
-        2x AMD EPYC 9454 @ 2.75 Ghz (total of 192 vCPU) 
+        192 Core AMD EPYC 9454 
         768 GB DDR5-4800 
         4x NVIDIA Hopper H100-SXM5, 80 GB
 
@@ -41,15 +67,14 @@ A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machi
 
     **CPU Nodes (uc1-gc):**
 
-        128 AMD EPYC 7702 
+        128 Core AMD EPYC 7702 
         512 GBs of RAM
-        4x NVIDIA A10 GPU
     
     ![](/HPC_Facilities/images/u1-gc.PNG)
 
     **GPU Nodes (uc1-A10):**
 
-        64 Intel Xeon Gold 6326
+        64 Core Intel Xeon Gold 6326
         256 GBs of RAM
         4x NVIDIA A10 GPU
     
@@ -87,7 +112,6 @@ A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machi
 
         Four different machine types based on different Nvidia GPUs (T4, A10 , A40 and A100) with different application purposes. 
 
-        **Nvidia A100 is avaliable on the following machines:**
 
     === "Nvidia T4"
        
@@ -112,22 +136,3 @@ A 1 (GPU) core machine cost 1 (GPU) core-hour pr. hour and a 64 (GPU) core machi
         **Nvidia A100 is avaliable on the following machines:**
         
         ![](/HPC_Facilities/images/uc-a100.PNG)
-
-    === "Specifications"    
-
-        Their specifications are summarized in a table below.
-
-        | GPU        | Architecture | CUDA Cores | Tensor Cores | Memory      | FP16 (Half) TFLOPS | FP32 (Float) TFLOPS | FP64 (Double) GFLOPS | Data Sheet                                        |
-        |------------|--------------|------------|--------------|-------------|--------------------|---------------------|----------------------|---------------------------------------------------|
-        | Nvidia T4  | Turing       | 2,560      | 320          | 16 GB GDDR6 | 65.1               | 8.1                 | 254.4                | [T4](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf)  |
-        | Nvidia A10 | Ampere       | 6,144      | 384          | 24 GB GDDR6 | 31.2               | 31.2                | 976.3                | [A10](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/datasheet-new/nvidia-a10-datasheet.pdf)  |
-        | Nvidia A40 | Ampere       | 10,240     | 320          | 48 GB GDDR6 | 37.4               | 37.4                | 0.59                 | [A40](https://images.nvidia.com/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf)  |
-        | Nvidia A100| Ampere       | 6,912      | 432          | 80 GB HBM2  | 78.0               | 19.5                | 9700                 | [A100](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-nvidia-us-2188504-web.pdf)  |
-
-
-
-        - **CUDA cores** are the general-purpose processing units in a GPU that can perform computations with standard floating-point precision, such as single-precision (32-bit) or double-precision (64-bit).
-
-        - **Tensor Cores** are optimized to trade off precision for speed and can significantly accelerate deep learning training and inference.
-
-        - A more detailed description can be found [here](https://medium.com/@primedeviation/cuda-vs-tensor-cores-a-guide-for-ml-workloads-and-model-training-1756bedd5f03).
