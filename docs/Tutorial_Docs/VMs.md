@@ -8,6 +8,6 @@
 
 ## Tutorials
 
-- [How to Generate SSH key](/Tutorials/VMs/shh/)
+- [How to Generate SSH key](/Tutorials/SSH/shh_create/)
 
-- [Access at data transfer to AAU VMs using SSH](/Tutorials/VMs/connectVM/)
+- [Access at data transfer to AAU VMs using SSH](/Tutorials/SSH/ssh_connect/)

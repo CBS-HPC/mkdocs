@@ -1,3 +1,6 @@
 [submodule "docs/Tutorials"]
 	path = docs/Tutorials
 	url = https://github.com/CBS-HPC/Tutorials.git
+[submodule "docs/moody-s_datahub"]
+	path = docs/moody-s_datahub
+	url = https://github.com/CBS-HPC/moody-s_datahub.git

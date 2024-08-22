@@ -10,6 +10,7 @@ nav:
     - 'getresources.md'
     - 'tut_docs.md'
     - 'contact.md'
+    - 'database_tools.md'
 
 theme:
   name: material
@@ -49,8 +50,9 @@ extra:
   homepage: https://example.com
 
 plugins:
-    - search:
-        lang: en
+  - mkdocstrings
+  - search:
+      lang: en
   #  - git-revision-date
   #  - awesome-pages # awesome-pages allows to hide folders (pip install)
   #  - macros # Allows custom macros.. used to import external files
