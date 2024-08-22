@@ -1,5 +1,4 @@
-- [Type 1 – Interactive HPC (UCloud)](./docs/UCloud.md)
-- [National HPC Facilities (DeiC)](./docs/DeiC.md)
-- [WRDS - Wharton Research Data Services](./docs/WRDS.md)
-- [Nationalt Genom Center HPC (Danish Statistics Data)](./docs/NGC.md)
-- [HPC Operational Status](./docs/status.md)
+- [Type 1 – Interactive HPC (UCloud)](/HPC_Facilities/UCloud/)
+- [National HPC Facilities (DeiC)](/HPC_Facilities/DeiC/)
+- [WRDS - Wharton Research Data Services](/HPC_Facilities/WRDS/
+- [Nationalt Genom Center HPC (Danish Statistics Data)](/HPC_Facilities/NGC/)
