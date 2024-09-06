@@ -10,7 +10,7 @@ nav:
     - 'getresources.md'
     - 'tut_docs.md'
     - 'contact.md'
-    - 'database_tools.md'
+    #- 'database_tools.md'
 
 theme:
   name: material
@@ -50,6 +50,7 @@ extra:
   homepage: https://example.com
 
 plugins:
+  #- mkdocs-jupyter
   - mkdocstrings
   - search:
       lang: en

@@ -46,20 +46,11 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 
     By offering expert consultation, we help researchers identify and address their specific HPC needs, ensuring they can effectively utilize the available resources and optimize their workflows and code for maximum performance and efficiency.
 
-## Data Science Links 
+##  Database Tools
 
-=== "Reproducible Data Science"
-    - [The Turing Way - Guide for Reproducible Research in Data Science ](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
-    - [Cookiecutter Data Science - Reproducible Project Structure](https://drivendata.github.io/cookiecutter-data-science/#links-to-related-projects-and-references)
-    - [Coderefinery - Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
-    - [How to Create a Conda Environment Based on a YAML File: A Guide for Data Scientists](https://saturncloud.io/blog/how-to-create-a-conda-environment-based-on-a-yaml-file-a-guide-for-data-scientists/)
-=== "Online Learning"
-    - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
-    - [Kaggle.com: Online interactive data science courses](https://www.kaggle.com/learn)
-    - [Kaggle.com: Python](https://www.kaggle.com/learn/python)
-    - [Kaggle.com: Getting staRted in R: First Steps](https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps)
-    - [Datacarpentry - Introduction to Stata for Economics](https://datacarpentry.org/stata-economics/)
+- [Moody's Datahub](/moody-s_datahub/mkdocs/moody-s datahub/)
 
+- [WRDS - Wharton Research Data Services](/HPC_Facilities/WRDS/)
 
 ## HPC/UCloud Tutorials
 
@@ -67,7 +58,9 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Getting Started with HPC (UCloud)](/HPC_Facilities/UCloud/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
-    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)   
+    - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+    - [How to Generate SSH key](/Tutorials/SSH/shh_create/)
+    - [SSH Connection to UCloud using VSCode](/Tutorials/SSH/VScode/)
 === "R"
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Use Conda on UCloud to manage R-packages](/Tutorial_Docs/Conda/)
@@ -109,6 +102,20 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Type 3 user guide (from SDU)](https://docs.hpc-type3.sdu.dk/)
     - [Run Stata on Type 3 ](/Tutorials/Type3/Stata/)
     - [Use Conda to manage Jupyterlab environments on Type 3](/Tutorials/Type3/Conda_Jupyter/)
+
+## Data Science Links 
+
+=== "Reproducible Data Science"
+    - [The Turing Way - Guide for Reproducible Research in Data Science ](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+    - [Cookiecutter Data Science - Reproducible Project Structure](https://drivendata.github.io/cookiecutter-data-science/#links-to-related-projects-and-references)
+    - [Coderefinery - Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
+    - [How to Create a Conda Environment Based on a YAML File: A Guide for Data Scientists](https://saturncloud.io/blog/how-to-create-a-conda-environment-based-on-a-yaml-file-a-guide-for-data-scientists/)
+=== "Online Learning"
+    - [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/hpda-python/) 
+    - [Kaggle.com: Online interactive data science courses](https://www.kaggle.com/learn)
+    - [Kaggle.com: Python](https://www.kaggle.com/learn/python)
+    - [Kaggle.com: Getting staRted in R: First Steps](https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps)
+    - [Datacarpentry - Introduction to Stata for Economics](https://datacarpentry.org/stata-economics/)
 
 
 ## HPC Operational Status

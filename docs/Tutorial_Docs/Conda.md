@@ -6,7 +6,7 @@ The following links provides step-by-step guides on how to install and use Conda
 
 Using a Conda environement elimnates the need for re-installing all the needed packages/libraries when starting a UCloud Job.
 
-This approach is also highly useful when running [multi-node Slurm Clusters](/Tutorial_Docs/SLURM/). 
+This approach is also highly useful when running [multi-node Slurm Clusters](/Tutorials/SLURM/SLURM/). 
 
 - [R](/Tutorials/Conda/Mamba_R/)
 
