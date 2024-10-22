@@ -60,7 +60,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
     - [Synchronization to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
     - [How to Generate SSH key](/Tutorials/SSH/shh_create/)
-    - [SSH Connection to UCloud using VSCode](/Tutorials/SSH/VScode/)
+    - [SSH Connection to UCloud using VSCode](/Tutorials/SSH/VSCode/)
 === "R"
     - [Speed up your Linear Alegbra calculations by choosing the right BLAS/LAPACK Library](/Tutorial_Docs/BLAS/)
     - [Use Conda on UCloud to manage R-packages](/Tutorial_Docs/Conda/)
@@ -108,6 +108,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS. The team is
 === "Reproducible Data Science"
     - [The Turing Way - Guide for Reproducible Research in Data Science ](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
     - [Cookiecutter Data Science - Reproducible Project Structure](https://drivendata.github.io/cookiecutter-data-science/#links-to-related-projects-and-references)
+    - [The Turing Way - Introduction to version control with Git](https://book.the-turing-way.org/reproducible-research/vcs)   
     - [Coderefinery - Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
     - [How to Create a Conda Environment Based on a YAML File: A Guide for Data Scientists](https://saturncloud.io/blog/how-to-create-a-conda-environment-based-on-a-yaml-file-a-guide-for-data-scientists/)
 === "Online Learning"

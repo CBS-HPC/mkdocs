@@ -10,7 +10,7 @@ nav:
     - 'getresources.md'
     - 'tut_docs.md'
     - 'contact.md'
-    #- 'database_tools.md'
+    - 'LICENSE.md'
 
 theme:
   name: material

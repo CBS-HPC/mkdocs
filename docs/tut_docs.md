@@ -10,6 +10,8 @@
     - [SLURM Clusters on UCloud](/Tutorials/SLURM/SLURM/)
     - [Batch Processing on UCloud](/Tutorial_Docs/BatchMode/)
     - [Rsync - Large data transfer to UCloud](/Tutorials/Sync/Rsync/)
+    - [How to Generate SSH key](/Tutorials/SSH/shh_create/)
+    - [SSH Connection to UCloud using VSCode](/Tutorials/SSH/VSCode/)
 
 === "Type 1: GPU"
 
